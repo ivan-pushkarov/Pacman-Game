@@ -8,5 +8,5 @@ x64/
 
 #Files to ignore
 *.sdf
-*.vcxproj.filters
+*.VC.db
 *.vcxproj.user
