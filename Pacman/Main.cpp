@@ -1,4 +1,3 @@
-#include <vld.h>
 #include <windows.h>
 #include "Application/Application.h"
 
