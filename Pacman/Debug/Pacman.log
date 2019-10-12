@@ -1,4 +1,0 @@
-﻿  TextureDrawableObject.cpp
-d:\game releases\pacman\pacman\pacman\source\settings\settings.h(241): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
-  Pacman.vcxproj -> D:\Game Releases\Pacman\Pacman\Debug\Pacman.exe
-  Pacman.vcxproj -> D:\Game Releases\Pacman\Pacman\Debug\Pacman.pdb (Full PDB)
